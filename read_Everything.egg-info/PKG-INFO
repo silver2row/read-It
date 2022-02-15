@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: read-Everything
+Version: 0.0.2
+Summary: Read!
+Home-page: https://github.com/silver2row/read-It
+Author: Real Python / Joe Tatusko / Seth
+Author-email: seth@lafayette-parish.com
+License: MIT b/c of realpython.com?
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+
+# Here are some ideas for readers!
+
+1. See the source in read-It/
+2. Make your conclusions!
+3. Enjoy it!
+
+@ Most of this source was/is dedicated to Real Python dot Com
+
+

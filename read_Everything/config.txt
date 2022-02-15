@@ -1,0 +1,4 @@
+# config.txt
+
+[feed]
+url = https://lafayette-parish.com/ideas.html

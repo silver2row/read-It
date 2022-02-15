@@ -1,0 +1,10 @@
+# feedparser-6.0.8 html2text-2020.1.16 importlib-resources-5.4.0
+# realpython-reader-1.0.0 sgmllib3k-1.0.0 typing-3.7.4.3
+
+The above mentions should be installed w/:
+# python3 -m pip install realpython-reader
+
+Also, here is the mention to finding resources on making it work w/ PyPI
+and other info. about the "reader."
+
+# https://github.com/realpython/reader

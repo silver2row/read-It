@@ -1,0 +1,12 @@
+README.md
+setup.py
+read_Everything/__init__.py
+read_Everything/__main__.py
+read_Everything/feed.py
+read_Everything/viewer.py
+read_Everything.egg-info/PKG-INFO
+read_Everything.egg-info/SOURCES.txt
+read_Everything.egg-info/dependency_links.txt
+read_Everything.egg-info/entry_points.txt
+read_Everything.egg-info/requires.txt
+read_Everything.egg-info/top_level.txt
